@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Environment stuff:
+.DS_Store
 .venv
 
 # Django stuff:
